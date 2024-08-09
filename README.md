@@ -26,8 +26,7 @@
 <body>
     <h1>Telegram Mini Ilovasi</h1>
     <video id="myVideo" width="320" height="240" controls>
-        <source src="video.mp4" type="video/mp4">
-        Sizning brauzeringiz video formatini qo'llab-quvvatlamaydi.
+    ,
     </video>
     <script>
         // Video bilan bog'liq JavaScript kodlari
