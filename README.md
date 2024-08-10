@@ -26,12 +26,11 @@
 <body>
     <h1>Telegram Mini Ilovasi</h1>
     <video id="myVideo" width="320" height="240" controls>
-    ,
+    ,https://youtu.be/K1HJuEm1-AM?si=8j1O7LuibCkugy9r
     </video>
     <script>
-        // Video bilan bog'liq JavaScript kodlari
         const video = document.getElementById('myVideo');
-        // Qo'shimcha kodlar
+        
     </script>
 </body>
 </html>
